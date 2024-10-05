@@ -1,0 +1,6 @@
+[submodule "react-native-app"]
+	path = react-native-app
+	url = https://github.com/prathamesh152/AttendanceApp.git
+[submodule "springboot-backend"]
+	path = springboot-backend
+	url = https://github.com/prathamesh152/AttendaceBackend.git
